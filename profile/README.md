@@ -1,7 +1,7 @@
 <!-- AiBotSpace 主页 · 推送到 main 后即时生效 · 贪吃蛇由 .github/workflows/snake.yml 每天生成 -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AiBotSpace&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Driven%20%C2%B7%20Automated%20%C2%B7%20Always%20Online&descAlignY=55&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=AiBotSpace&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Driven%20%C2%B7%20Automated%20%C2%B7%20Always%20Online&descAlignY=55&descSize=17" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=26&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=640&lines=%F0%9F%A4%96+%E5%85%A8%E8%87%AA%E5%8A%A8+AI+%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A9%BA%E9%97%B4%E7%AB%99;%E8%B6%8B%E5%8A%BF%E6%8A%95%E8%B5%84+%C2%B7+%E8%87%AA%E5%8A%A8%E5%8C%96+%C2%B7+%E7%9F%A5%E8%AF%86%E6%B2%89%E6%B7%80;%E4%BB%A3%E7%A0%81%E7%A9%BA%E9%97%B4%E5%AE%87%E5%AE%99%E8%88%AA%E8%A1%8C%E4%B8%AD)](https://github.com/AiBotSpace)
 
@@ -41,8 +41,6 @@
 
 ## 🚀 精选项目
 
-[![Trending](https://github-readme-stats.vercel.app/api/pin/?username=AiBotSpace&repo=Trending&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&icon_color=00FFFF)](https://github.com/AiBotSpace/Trending)
-
 **趋势投资：从零到专家** —— 完整的趋势投资知识体系，10 卷内容：从思想、理论、大师深研，到一页式可执行交易系统（v1.0-RC1 研究候选版），附实践练习与研究验证框架。
 
 [![在线阅读](https://img.shields.io/badge/🌐_在线阅读-aibotspace.github.io/Trending-FF6EC7?style=for-the-badge)](https://aibotspace.github.io/Trending/)
@@ -50,12 +48,23 @@
 
 <sub>内容为投资方法论研究，不构成投资建议。</sub>
 
-## 📊 数据看板
+### 🗺️ 知识体系速览
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AiBotSpace&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=00FFFF&text_color=FFFFFF&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiBotSpace&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF" />
-</div>
+| 入口 | 内容 |
+| --- | --- |
+| [知识全景图](https://aibotspace.github.io/Trending/00-getting-started/01-knowledge-panorama/) | 八大知识域、能力阶梯与卷 × 阶段对照 |
+| [分阶段学习路线](https://aibotspace.github.io/Trending/00-getting-started/02-learning-roadmap/) | 阶段 0–6 的闯关路径与产出标准 |
+| [一页式系统规则](https://aibotspace.github.io/Trending/06-system/02-spec/) | 实盘规则总纲：闸门、选股、形态、风险与退出 |
+| [可视化驾驶舱](https://aibotspace.github.io/Trending/06-system/01-dashboard/) | 决策链静态示意图：五组规则同屏对照 |
+
+## 📊 账号速览
+
+| 项目 | |
+| --- | --- |
+| 注册于 | 2019-03-22 |
+| 公开仓库 | 3 个 |
+| 知识站 | [Trending 趋势投资：从零到专家](https://aibotspace.github.io/Trending/) |
+| 当前焦点 | 趋势系统 v1.0-RC1 → 研究验证；每日趋势简报（工作日） |
 
 ## 🐍 贡献轨迹
 
